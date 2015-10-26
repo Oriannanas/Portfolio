@@ -1,0 +1,6 @@
+As a little side project during my last year at MBO Utrecht I wanted to try out a new idea I had for collision detection, 
+and wanted a fairly simple game to try it out with.
+I chose brickbreaker because it's really simple to set up and easy to expand.
+After the collision detection system turned out to work pretty great I used the project to
+try out a way of implementing particles. Which, after some research, 
+turned out to be a pretty common way of dealing with particle systems.
